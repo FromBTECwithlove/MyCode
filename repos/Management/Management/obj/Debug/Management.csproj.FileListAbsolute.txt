@@ -1,0 +1,6 @@
+C:\Users\luuka\source\repos\Management\Management\bin\Debug\Management.exe.config
+C:\Users\luuka\source\repos\Management\Management\bin\Debug\Management.exe
+C:\Users\luuka\source\repos\Management\Management\bin\Debug\Management.pdb
+C:\Users\luuka\source\repos\Management\Management\obj\Debug\Management.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\Management\Management\obj\Debug\Management.exe
+C:\Users\luuka\source\repos\Management\Management\obj\Debug\Management.pdb

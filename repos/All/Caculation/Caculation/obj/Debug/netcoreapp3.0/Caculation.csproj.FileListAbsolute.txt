@@ -1,0 +1,11 @@
+C:\Users\luuka\source\repos\Caculation\Caculation\obj\Debug\netcoreapp3.0\Caculation.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\Caculation\Caculation\obj\Debug\netcoreapp3.0\Caculation.AssemblyInfoInputs.cache
+C:\Users\luuka\source\repos\Caculation\Caculation\obj\Debug\netcoreapp3.0\Caculation.AssemblyInfo.cs
+C:\Users\luuka\source\repos\Caculation\Caculation\bin\Debug\netcoreapp3.0\Caculation.exe
+C:\Users\luuka\source\repos\Caculation\Caculation\bin\Debug\netcoreapp3.0\Caculation.deps.json
+C:\Users\luuka\source\repos\Caculation\Caculation\bin\Debug\netcoreapp3.0\Caculation.runtimeconfig.json
+C:\Users\luuka\source\repos\Caculation\Caculation\bin\Debug\netcoreapp3.0\Caculation.runtimeconfig.dev.json
+C:\Users\luuka\source\repos\Caculation\Caculation\bin\Debug\netcoreapp3.0\Caculation.dll
+C:\Users\luuka\source\repos\Caculation\Caculation\bin\Debug\netcoreapp3.0\Caculation.pdb
+C:\Users\luuka\source\repos\Caculation\Caculation\obj\Debug\netcoreapp3.0\Caculation.dll
+C:\Users\luuka\source\repos\Caculation\Caculation\obj\Debug\netcoreapp3.0\Caculation.pdb

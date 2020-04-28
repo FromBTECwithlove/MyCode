@@ -1,0 +1,14 @@
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\7_1_2020.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\MainWindow.g.cs
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\App.g.cs
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\7_1_2020_MarkupCompile.cache
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\7_1_2020_MarkupCompile.lref
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\bin\Debug\7_1_2020.exe.config
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\bin\Debug\7_1_2020.exe
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\bin\Debug\7_1_2020.pdb
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\MainWindow.baml
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\7_1_2020.g.resources
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\_7_1_2020.Properties.Resources.resources
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\7_1_2020.csproj.GenerateResource.cache
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\7_1_2020.exe
+C:\Users\luuka\source\repos\7_1_2020\7_1_2020\obj\Debug\7_1_2020.pdb

@@ -1,0 +1,14 @@
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\Advanced Programing.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\MainWindow.g.cs
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\App.g.cs
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\Advanced Programing_MarkupCompile.cache
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\Advanced Programing_MarkupCompile.lref
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\bin\Debug\Advanced Programing.exe.config
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\bin\Debug\Advanced Programing.exe
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\bin\Debug\Advanced Programing.pdb
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\MainWindow.baml
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\Advanced Programing.g.resources
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\Advanced_Programing.Properties.Resources.resources
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\Advanced Programing.csproj.GenerateResource.cache
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\Advanced Programing.exe
+C:\Users\luuka\source\repos\Advanced Programing\Advanced Programing\obj\Debug\Advanced Programing.pdb

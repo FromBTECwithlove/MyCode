@@ -1,0 +1,14 @@
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\bin\Debug\Assignment AP.exe.config
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\bin\Debug\Assignment AP.exe
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\bin\Debug\Assignment AP.pdb
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\Assignment AP.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\MainWindow.g.cs
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\App.g.cs
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\Assignment AP_MarkupCompile.cache
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\Assignment AP_MarkupCompile.lref
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\MainWindow.baml
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\Assignment AP.g.resources
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\Assignment_AP.Properties.Resources.resources
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\Assignment AP.csproj.GenerateResource.cache
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\Assignment AP.exe
+C:\Users\luuka\source\repos\Assignment AP\Assignment AP\obj\Debug\Assignment AP.pdb

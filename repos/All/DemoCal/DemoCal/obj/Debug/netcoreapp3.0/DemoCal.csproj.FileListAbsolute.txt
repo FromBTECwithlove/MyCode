@@ -1,0 +1,11 @@
+C:\Users\luuka\source\repos\DemoCal\DemoCal\bin\Debug\netcoreapp3.0\DemoCal.exe
+C:\Users\luuka\source\repos\DemoCal\DemoCal\bin\Debug\netcoreapp3.0\DemoCal.deps.json
+C:\Users\luuka\source\repos\DemoCal\DemoCal\bin\Debug\netcoreapp3.0\DemoCal.runtimeconfig.json
+C:\Users\luuka\source\repos\DemoCal\DemoCal\bin\Debug\netcoreapp3.0\DemoCal.runtimeconfig.dev.json
+C:\Users\luuka\source\repos\DemoCal\DemoCal\bin\Debug\netcoreapp3.0\DemoCal.dll
+C:\Users\luuka\source\repos\DemoCal\DemoCal\bin\Debug\netcoreapp3.0\DemoCal.pdb
+C:\Users\luuka\source\repos\DemoCal\DemoCal\obj\Debug\netcoreapp3.0\DemoCal.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\DemoCal\DemoCal\obj\Debug\netcoreapp3.0\DemoCal.AssemblyInfoInputs.cache
+C:\Users\luuka\source\repos\DemoCal\DemoCal\obj\Debug\netcoreapp3.0\DemoCal.AssemblyInfo.cs
+C:\Users\luuka\source\repos\DemoCal\DemoCal\obj\Debug\netcoreapp3.0\DemoCal.dll
+C:\Users\luuka\source\repos\DemoCal\DemoCal\obj\Debug\netcoreapp3.0\DemoCal.pdb

@@ -1,0 +1,5 @@
+C:\Users\luuka\source\repos\StudentMangement\StudentMangement\bin\Debug\StudentMangement.pdb
+C:\Users\luuka\source\repos\StudentMangement\StudentMangement\obj\Debug\StudentMangement.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\StudentMangement\StudentMangement\obj\Debug\StudentMangement.pdb
+C:\Users\luuka\source\repos\StudentMangement\StudentMangement\bin\Debug\StudentMangement.exe
+C:\Users\luuka\source\repos\StudentMangement\StudentMangement\obj\Debug\StudentMangement.exe

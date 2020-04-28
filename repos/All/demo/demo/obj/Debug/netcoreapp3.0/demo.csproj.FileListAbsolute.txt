@@ -1,0 +1,11 @@
+C:\Users\luuka\source\repos\demo\demo\bin\Debug\netcoreapp3.0\demo.exe
+C:\Users\luuka\source\repos\demo\demo\bin\Debug\netcoreapp3.0\demo.deps.json
+C:\Users\luuka\source\repos\demo\demo\bin\Debug\netcoreapp3.0\demo.runtimeconfig.json
+C:\Users\luuka\source\repos\demo\demo\bin\Debug\netcoreapp3.0\demo.runtimeconfig.dev.json
+C:\Users\luuka\source\repos\demo\demo\bin\Debug\netcoreapp3.0\demo.dll
+C:\Users\luuka\source\repos\demo\demo\bin\Debug\netcoreapp3.0\demo.pdb
+C:\Users\luuka\source\repos\demo\demo\obj\Debug\netcoreapp3.0\demo.AssemblyInfoInputs.cache
+C:\Users\luuka\source\repos\demo\demo\obj\Debug\netcoreapp3.0\demo.AssemblyInfo.cs
+C:\Users\luuka\source\repos\demo\demo\obj\Debug\netcoreapp3.0\demo.dll
+C:\Users\luuka\source\repos\demo\demo\obj\Debug\netcoreapp3.0\demo.pdb
+C:\Users\luuka\source\repos\demo\demo\obj\Debug\netcoreapp3.0\demo.csprojAssemblyReference.cache

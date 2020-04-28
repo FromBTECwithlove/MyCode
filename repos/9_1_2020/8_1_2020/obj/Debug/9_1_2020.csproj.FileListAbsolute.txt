@@ -1,0 +1,12 @@
+C:\Users\luuka\source\repos\8_1_2020\8_1_2020\obj\Debug\9_1_2020.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\8_1_2020\8_1_2020\bin\Debug\9_1_2020.exe.config
+C:\Users\luuka\source\repos\8_1_2020\8_1_2020\bin\Debug\9_1_2020.exe
+C:\Users\luuka\source\repos\8_1_2020\8_1_2020\bin\Debug\9_1_2020.pdb
+C:\Users\luuka\source\repos\8_1_2020\8_1_2020\obj\Debug\9_1_2020.exe
+C:\Users\luuka\source\repos\8_1_2020\8_1_2020\obj\Debug\9_1_2020.pdb
+C:\Users\luuka\source\repos\9_1_2020\8_1_2020\bin\Debug\9_1_2020.exe.config
+C:\Users\luuka\source\repos\9_1_2020\8_1_2020\bin\Debug\9_1_2020.exe
+C:\Users\luuka\source\repos\9_1_2020\8_1_2020\bin\Debug\9_1_2020.pdb
+C:\Users\luuka\source\repos\9_1_2020\8_1_2020\obj\Debug\9_1_2020.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\9_1_2020\8_1_2020\obj\Debug\9_1_2020.exe
+C:\Users\luuka\source\repos\9_1_2020\8_1_2020\obj\Debug\9_1_2020.pdb

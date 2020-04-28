@@ -1,0 +1,10 @@
+C:\Users\luuka\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.0\SimpleDelegate.exe
+C:\Users\luuka\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.0\SimpleDelegate.deps.json
+C:\Users\luuka\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.0\SimpleDelegate.runtimeconfig.json
+C:\Users\luuka\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.0\SimpleDelegate.runtimeconfig.dev.json
+C:\Users\luuka\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.0\SimpleDelegate.dll
+C:\Users\luuka\source\repos\SimpleDelegate\SimpleDelegate\bin\Debug\netcoreapp3.0\SimpleDelegate.pdb
+C:\Users\luuka\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.0\SimpleDelegate.AssemblyInfoInputs.cache
+C:\Users\luuka\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.0\SimpleDelegate.AssemblyInfo.cs
+C:\Users\luuka\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.0\SimpleDelegate.dll
+C:\Users\luuka\source\repos\SimpleDelegate\SimpleDelegate\obj\Debug\netcoreapp3.0\SimpleDelegate.pdb

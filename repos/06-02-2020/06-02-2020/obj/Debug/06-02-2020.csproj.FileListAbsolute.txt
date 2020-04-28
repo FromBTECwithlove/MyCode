@@ -1,0 +1,6 @@
+C:\Users\luuka\source\repos\06-02-2020\06-02-2020\bin\Debug\06-02-2020.exe.config
+C:\Users\luuka\source\repos\06-02-2020\06-02-2020\bin\Debug\06-02-2020.exe
+C:\Users\luuka\source\repos\06-02-2020\06-02-2020\bin\Debug\06-02-2020.pdb
+C:\Users\luuka\source\repos\06-02-2020\06-02-2020\obj\Debug\06-02-2020.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\06-02-2020\06-02-2020\obj\Debug\06-02-2020.exe
+C:\Users\luuka\source\repos\06-02-2020\06-02-2020\obj\Debug\06-02-2020.pdb

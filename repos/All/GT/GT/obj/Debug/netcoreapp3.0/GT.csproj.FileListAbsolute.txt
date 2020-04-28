@@ -1,0 +1,11 @@
+C:\Users\luuka\source\repos\GT\GT\bin\Debug\netcoreapp3.0\GT.exe
+C:\Users\luuka\source\repos\GT\GT\bin\Debug\netcoreapp3.0\GT.deps.json
+C:\Users\luuka\source\repos\GT\GT\bin\Debug\netcoreapp3.0\GT.runtimeconfig.json
+C:\Users\luuka\source\repos\GT\GT\bin\Debug\netcoreapp3.0\GT.runtimeconfig.dev.json
+C:\Users\luuka\source\repos\GT\GT\bin\Debug\netcoreapp3.0\GT.dll
+C:\Users\luuka\source\repos\GT\GT\bin\Debug\netcoreapp3.0\GT.pdb
+C:\Users\luuka\source\repos\GT\GT\obj\Debug\netcoreapp3.0\GT.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\GT\GT\obj\Debug\netcoreapp3.0\GT.AssemblyInfoInputs.cache
+C:\Users\luuka\source\repos\GT\GT\obj\Debug\netcoreapp3.0\GT.AssemblyInfo.cs
+C:\Users\luuka\source\repos\GT\GT\obj\Debug\netcoreapp3.0\GT.dll
+C:\Users\luuka\source\repos\GT\GT\obj\Debug\netcoreapp3.0\GT.pdb

@@ -1,0 +1,3 @@
+C:\Users\luuka\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.csprojAssemblyReference.cache
+C:\Users\luuka\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\luuka\source\repos\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfo.cs
